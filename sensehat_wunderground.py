@@ -8,9 +8,9 @@ from ISStreamer.Streamer import Streamer
 from sense_hat import SenseHat 
 
 # --------- User Settings ---------
-STATE = "CA"
-CITY = "San_Francisco"
-SENSOR_LOCATION_NAME = "Office"
+STATE = "GLD"
+CITY = "Elst"
+SENSOR_LOCATION_NAME = "Huis"
 WUNDERGROUND_API_KEY = "PLACE YOUR WUNDERGROUND API KEY HERE"
 BUCKET_NAME = ":partly_sunny: " + CITY + " Weather"
 BUCKET_KEY = "shwu1"
